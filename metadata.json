@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster",
+  "description": "An interactive multiple-choice quiz application with score tracking, customizable categories, high-score persistence, and question countdown timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
